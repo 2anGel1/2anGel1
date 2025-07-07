@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi there, this is Ange Emmanuel ASSAMOI aka @scopy 👋
+
+I'm a self-taught dev who loves to build, break, and learn.
+Most driven by curiosity and that thrill of turning random ideas into something real, i love coding and 
+is for me, half craft, half playground — and there’s always something new to try next.
 
 <!--
-**2anGel1/2anGel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
