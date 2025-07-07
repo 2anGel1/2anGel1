@@ -1,4 +1,4 @@
-## Hi there, this is Ange Emmanuel ASSAMOI aka @scopy 👋
+# Hi there, this is Ange Emmanuel ASSAMOI aka @scopy 👋
 
 I'm a self-taught dev who loves to build, break, and learn.
 Most driven by curiosity and that thrill of turning random ideas into something real, i love coding and 
