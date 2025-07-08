@@ -20,4 +20,4 @@ is for me, half craft, half playground — and there’s always something new to
 - ⚡Co-founder of Horama Groups, a tech organization
 
 ## Tech Stack 🎒💻
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,nodejs,js,ts,vue,react,nestjs,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,js,ts,prisma,pnpm,vercel,azure,git)](https://skillicons.dev)
