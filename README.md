@@ -20,7 +20,7 @@ is for me, half craft, half playground — and there’s always something new to
 - ⚡Co-founder of Horama Groups, a tech organization
 
 ## Tech Stack 🎒💻
-[![My Skills](https://skillicons.dev/icons?i=cpp,qt,py,js,ts,laravel,mysql,postgres,prisma,pnpm,docker,md,regex,vercel,azure,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,qt,py,js,ts,laravel,mysql,postgres,prisma,pnpm,docker,md,regex,vercel,azure,git&perline=8)](https://skillicons.dev)
 
 ## Achievements 🏆
 - 🌟 2nd prize SIREXE Hackathon 2025 edditon
