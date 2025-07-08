@@ -20,4 +20,11 @@ is for me, half craft, half playground — and there’s always something new to
 - ⚡Co-founder of Horama Groups, a tech organization
 
 ## Tech Stack 🎒💻
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,js,ts,prisma,pnpm,vercel,azure,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,qt,py,js,ts,laravel,mysql,postgres,prisma,pnpm,docker,md,regex,vercel,azure,git)](https://skillicons.dev)
+
+## Achievements 🏆
+- 🌟 2nd prize SIREXE Hackathon 2025 edditon
+- 🌟 1st prize ADW Hackathon 22024 eddition
+
+## Get in Touch 📬
+- Linkedin [clic here](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
