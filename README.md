@@ -14,3 +14,10 @@ is for me, half craft, half playground — and there’s always something new to
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me 🚀
+- 🔭 I’m currently software engineer at e-Sphere
+- ⚡Co-founder of Horama Groups, a tech organization
+
+## Tech Stack 🎒💻
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
